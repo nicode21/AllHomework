@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.exe
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.deps.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.runtimeconfig.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\PolymorphismAbstract.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.genruntimeconfig.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Polymorphism-Abstract.cs-interface\TrainingForLesson\PolymorphismAbstract\PolymorphismAbstract\obj\Debug\netcoreapp3.1\PolymorphismAbstract.csproj.CopyComplete
