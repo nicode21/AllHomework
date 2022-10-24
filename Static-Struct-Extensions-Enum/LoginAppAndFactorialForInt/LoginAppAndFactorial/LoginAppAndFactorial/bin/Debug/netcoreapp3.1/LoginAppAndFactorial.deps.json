@@ -8,16 +8,10 @@
     ".NETCoreApp,Version=v3.1": {
       "LoginAppAndFactorial/1.0.0": {
         "dependencies": {
-          "FactorialExtension": "1.0.0",
           "Service": "1.0.0"
         },
         "runtime": {
           "LoginAppAndFactorial.dll": {}
-        }
-      },
-      "FactorialExtension/1.0.0": {
-        "runtime": {
-          "FactorialExtension.dll": {}
         }
       },
       "Service/1.0.0": {
@@ -29,11 +23,6 @@
   },
   "libraries": {
     "LoginAppAndFactorial/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "FactorialExtension/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.exe
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.deps.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.runtimeconfig.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\bin\Debug\netcoreapp3.1\FactorialExtension.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Static-Struct-Extensions-Enum\FactorialExtension\FactorialExtension\FactorialExtension\obj\Debug\netcoreapp3.1\FactorialExtension.genruntimeconfig.cache
