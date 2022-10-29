@@ -6,8 +6,8 @@ namespace Service.Enums
 {
     public enum Roles
     {
-        SuperAdmin=191919,
-        Admin=181818,
-        Member=171717,
+        SuperAdmin=1,
+        Admin,
+        Member,
     }
 }

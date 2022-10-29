@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.exe
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.deps.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.runtimeconfig.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\CastingBoxingImplict.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.csproj.CopyComplete
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\UpCasting-DownCasting-Boxing-UnBoxing\Training\CastingBoxingImplict\CastingBoxingImplict\obj\Debug\netcoreapp3.1\CastingBoxingImplict.genruntimeconfig.cache
