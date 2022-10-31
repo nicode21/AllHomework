@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.exe
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.deps.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.runtimeconfig.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\bin\Debug\netcoreapp3.1\EmployeeCount.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\EmployeeCount\EmployeeCount\EmployeeCount\obj\Debug\netcoreapp3.1\EmployeeCount.genruntimeconfig.cache

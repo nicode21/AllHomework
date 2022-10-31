@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.exe
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.deps.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.runtimeconfig.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\bin\Debug\netcoreapp3.1\temprature.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.dll
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.pdb
+C:\Users\User\Desktop\Materials\AllHomeWorks\Implicit-Explicit-Generics\Temprature\temprature\temprature\obj\Debug\netcoreapp3.1\temprature.genruntimeconfig.cache
